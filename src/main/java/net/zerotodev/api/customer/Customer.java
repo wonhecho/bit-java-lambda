@@ -1,5 +1,8 @@
 package net.zerotodev.api.customer;
 
+import lombok.RequiredArgsConstructor;
+
+
 public class Customer {
     private String id;
     private String firstName;
